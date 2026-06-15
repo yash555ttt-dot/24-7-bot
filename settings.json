@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MidnightNetwork.aternos.me",
-    "port": 57225,
+    "ip": "VORTEXSMP-S1.aternos.me",
+    "port": 20482,
     "version": "1.20.1",
     "try-creative": false
   },
